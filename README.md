@@ -1,6 +1,6 @@
 ## Hi, i'm Bruno. 👻
 
-[![Instagram]( 	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunowester)
+[![Instagram]( 	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunofollowill)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-silva-506b59257/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunofollowill&show_icons=true&theme=dracula)
